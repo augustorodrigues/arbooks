@@ -5,6 +5,5 @@
     $email = $_POST["email"];
     $password = $_POST["password"];
 
-    InserirUsuario($name, $email, $password);       
-
+    InserirUsuario($name, $email, $password);
 ?>
